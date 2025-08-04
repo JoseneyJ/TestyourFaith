@@ -7,7 +7,7 @@ var questions = [
   },
   {
     title: "For nothing will be ____ with God.",
-    choices: ["easy", "possible", "cpmplicated", "impossible"],
+    choices: ["easy", "possible", "complicated", "impossible"],
     answer: "impossible",
   },
   {
